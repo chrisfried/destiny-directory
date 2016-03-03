@@ -88,6 +88,10 @@ var sites = [
   {
     name: "Destiny Scopes",
     url: "http://destinyscopes.com/"
+  },
+  {
+    name: "Destiny Public Events",
+    url: "http://destinypublicevents.com/"
   }
 ]
 
