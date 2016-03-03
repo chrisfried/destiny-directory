@@ -91,7 +91,7 @@ shuffle(sites);
 
 if (document.getElementById('random')) {
   var randomLink = document.getElementById('random');
-  randomLink.href = sites[0];
+  randomLink.href = sites[0].url;
   randomLink.addEventListener('click', function() {
     console.log(randomLink.href)
     console.log(sites[0].url)
