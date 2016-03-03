@@ -30,8 +30,24 @@ var sites = [
     url: "http://wastedondestiny.com/"
   },
   {
+    name: "Destiny Calendar Heatmap",
+    url: "https://secret-scrubland-31430.herokuapp.com/"
+  },
+  {
+    name: "LFG.net",
+    url: "http://www.destinylfg.net/"
+  },
+  {
+    name: "Planet Destiny",
+    url: "http://planetdestiny.com/"
+  },
+  {
+    name: "DestinyDB",
+    url: "https://www.destinydb.com/"
+  },
+  {
     name: "Destiny Item Manager",
-    url: "https://www.reddit.com/r/destinyitemmanager/",
+    url: "http://destinyitemmanager.com/",
     blank: true
   },
   {
@@ -42,6 +58,31 @@ var sites = [
   {
     name: "Low Sodium Destiny",
     url: "https://www.reddit.com/r/LowSodiumDestiny/",
+    blank: true
+  },
+  {
+    name: "Fireteams",
+    url: "https://www.reddit.com/r/fireteams",
+    blank: true
+  },
+  {
+    name: "Crucible Playbook",
+    url: "https://www.reddit.com/r/crucibleplaybook",
+    blank: true
+  },
+  {
+    name: "Crucible Sherpas",
+    url: "https://www.reddit.com/r/CrucibleSherpa/",
+    blank: true
+  },
+  {
+    name: "Destiny Sherpas",
+    url: "https://www.reddit.com/r/destinysherpa/",
+    blank: true
+  },
+  {
+    name: "The 100",
+    url: "https://www.the100.io/",
     blank: true
   }
 ]
