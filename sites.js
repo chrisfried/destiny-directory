@@ -19,16 +19,15 @@ var sites = [
   },
   {
     name: "Destiny Tracker",
-    url: "https://destinytracker.com/"
+    url: "http://destinytracker.com/"
   },
   {
     name: "Guardian.gg",
-    url: "https://guardian.gg/"
+    url: "http://guardian.gg/"
   },
   {
     name: "Time Wasted on Destiny",
-    url: "http://wastedondestiny.com/",
-    blank: true
+    url: "http://wastedondestiny.com/"
   },
   {
     name: "Destiny Item Manager",
