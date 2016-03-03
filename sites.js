@@ -34,7 +34,7 @@ var sites = [
     url: "https://secret-scrubland-31430.herokuapp.com/"
   },
   {
-    name: "LFG.net",
+    name: "DestinyLFG.Net",
     url: "http://www.destinylfg.net/"
   },
   {
