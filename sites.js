@@ -84,6 +84,10 @@ var sites = [
     name: "The 100",
     url: "https://www.the100.io/",
     blank: true
+  },
+  {
+    name: "Destiny Scopes",
+    url: "http://destinyscopes.com/"
   }
 ]
 
