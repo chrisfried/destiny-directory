@@ -90,8 +90,64 @@ var sites = [
     url: "http://destinyscopes.com/"
   },
   {
+    name: "Destiny Lore",
+    url: "https://www.reddit.com/r/DestinyLore/",
+    blank: true
+  },
+  {
+    name: "Raid Secrets",
+    url: "https://www.reddit.com/r/raidsecrets/",
+    blank: true
+  },
+  {
     name: "Destiny Public Events",
     url: "http://destinypublicevents.com/"
+  },
+  {
+    name: "Destiny Ghost Hunter",
+    url: "http://destinyghosthunter.net/"
+  },
+  {
+    name: "Destiny Chest Hunter",
+    url: "http://destinychesthunter.net/"
+  },
+  {
+    name: "Destinypedia",
+    url: "http://www.destinypedia.com/"
+  },
+  {
+    name: "Destiny Wiki",
+    url: "http://destiny.wikia.com/wiki/Destiny_Wiki/"
+  },
+  {
+    name: "Bungie.net",
+    url: "https://www.bungie.net/",
+    blank: true
+  },
+  {
+    name: "Destiny Status",
+    url: "http://destinystatus.com/"
+  },
+  {
+    name: "Destiny Checklist",
+    url: "https://www.destinychecklist.net/"
+  },
+  {
+    name: "Destiny Calcified Fragments",
+    url: "http://destinycalcifiedfragments.com/"
+  },
+  {
+    name: "Dinklebot.net",
+    url: "http://dinklebot.net/"
+  },
+  {
+    name: "Guardian.fm",
+    url: "https://guardian.fm/",
+    blank: true
+  },
+  {
+    name: "Destiny Exotics",
+    url: "https://destinyexotics.com/"
   }
 ]
 
