@@ -156,6 +156,10 @@ var sites = [
   {
     name: "Loadouts for Destiny",
     url: "http://www.loadoutsapp.com/"
+  },
+  {
+    name: "Destiny Infusion + Light Level Calculator",
+    url: "http://mattaltepeter.com/destiny/"
   }
 ]
 
