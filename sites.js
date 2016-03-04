@@ -148,6 +148,14 @@ var sites = [
   {
     name: "Destiny Exotics",
     url: "https://destinyexotics.com/"
+  },
+  {
+    name: "Ishtar Commander",
+    url: "http://ishtar-commander.com/"
+  },
+  {
+    name: "Loadouts for Destiny",
+    url: "http://www.loadoutsapp.com/"
   }
 ]
 
