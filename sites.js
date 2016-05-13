@@ -202,7 +202,8 @@ var sites = [
   },
   {
     name: "Destiny Coach",
-    url: "http://guardian.coach/"
+    url: "http://guardian.coach/",
+    blank: true
   }
 ]
 
