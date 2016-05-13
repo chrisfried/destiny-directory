@@ -163,7 +163,8 @@ var sites = [
   },
   {
     name: "DestinyLFG.com",
-    url: "http://www.destinylfg.com/"
+    url: "http://www.destinylfg.com/",
+    blank: true
   },
   {
     name: "Destiny Tailor",
@@ -183,11 +184,13 @@ var sites = [
   },
   {
     name: "Destiny Timeline",
-    url: "http://destinytimeline.com/"
+    url: "http://destinytimeline.com/",
+    blank: true
   },
   {
     name: "Ishtar Collective",
-    url: "http://www.ishtar-collective.net/"
+    url: "http://www.ishtar-collective.net/",
+    blank: true
   },
   {
     name: "Destiny Clan Wars",
