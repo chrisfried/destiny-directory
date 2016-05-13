@@ -199,6 +199,10 @@ var sites = [
   {
     name: "Destiny Portal",
     url: "http://destiny-portal.com/"
+  },
+  {
+    name: "Destiny Coach",
+    url: "http://guardian.coach/"
   }
 ]
 
