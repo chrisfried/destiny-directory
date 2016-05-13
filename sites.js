@@ -30,7 +30,7 @@ var sites = [
     url: "http://wastedondestiny.com/"
   },
   {
-    name: "Destiny Calendar Heatmap",
+    name: "Secret Scrubland 31430",
     url: "https://secret-scrubland-31430.herokuapp.com/"
   },
   {
@@ -160,6 +160,42 @@ var sites = [
   {
     name: "Destiny Infusion + Light Level Calculator",
     url: "http://mattaltepeter.com/destiny/"
+  },
+  {
+    name: "DestinyLFG.com",
+    url: "http://www.destinylfg.com/"
+  },
+  {
+    name: "Destiny Tailor",
+    url: "http://destinytailor.com/"
+  },
+  {
+    name: "Destiny Reputation Calculator",
+    url: "http://destiny.neonblack.moe/reputation/"
+  },
+  {
+    name: "Destiny Daily",
+    url: "http://www.destiny-daily.com/"
+  },
+  {
+    name: "Iron Banner Reputation Calculator",
+    url: "http://www.ironbanner.info/"
+  },
+  {
+    name: "Destiny Timeline",
+    url: "http://destinytimeline.com/"
+  },
+  {
+    name: "Ishtar Collective",
+    url: "http://www.ishtar-collective.net/"
+  },
+  {
+    name: "Destiny Clan Wars",
+    url: "http://destinyclanwars.com/"
+  },
+  {
+    name: "Destiny Portal",
+    url: "http://destiny-portal.com/"
   }
 ]
 
