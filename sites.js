@@ -204,6 +204,10 @@ var sites = [
     name: "Destiny Coach",
     url: "http://guardian.coach/",
     blank: true
+  },
+  {
+    name: "Destiny STL Generator",
+    url: "http://www.destinystlgenerator.com/"
   }
 ]
 
