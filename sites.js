@@ -213,6 +213,10 @@ var sites = [
   {
     name: "Destiny STL Generator",
     url: "http://www.destinystlgenerator.com/"
+  },
+  {
+    name: "Destiny WTF?!",
+    url: "http://destiny.wtf/"
   }
 ]
 
