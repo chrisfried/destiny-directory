@@ -56,6 +56,11 @@ var sites = [
     blank: true
   },
   {
+    name: "Destiny Fashion",
+    url: "https://www.reddit.com/r/DestinyFashion",
+    blank: true
+  },
+  {
     name: "Destiny Journals",
     url: "https://www.reddit.com/r/DestinyJournals/",
     blank: true
