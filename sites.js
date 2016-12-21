@@ -222,6 +222,10 @@ var sites = [
   {
     name: "Destiny WTF?!",
     url: "http://destiny.wtf/"
+  },
+  {
+    name: "Crossroads for Destiny",
+    url: "http://crossroadsapp.co/"
   }
 ]
 
